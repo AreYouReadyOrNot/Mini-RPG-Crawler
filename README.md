@@ -2,6 +2,10 @@
 
 Un petit jeu RPG en Python utilisant Pygame avec dialogues, combats, et déplacement sur une carte.
 
+
+<img width="1197" height="934" alt="image" src="https://github.com/user-attachments/assets/a0a70d11-44b1-441a-b938-dae1763c67f5" />
+
+
 ## 🎮 Fonctionnalités
 
 - **Déplacement** : Utilisez les touches directionnelles pour vous déplacer
