@@ -32,22 +32,6 @@ python main.py
 - **Flèches directionnelles** : Déplacer le joueur
 - **ESPACE** : Interagir avec les NPCs
 
-## 📁 Structure du projet
-RPG-Crawler/
-├── src/
-│ ├── main.py # Point d'entrée du jeu
-│ ├── game.py # Classe principale du jeu
-│ ├── map.py # Gestion des cartes
-│ ├── player.py # Classes Entity, Player, NPC
-│ ├── combat.py # Système de combat
-│ ├── dialog.py # Gestion des dialogues
-│ └── animation.py # Gestion des animations
-├── sprites/ # Images des personnages
-├── map/ # Fichiers TMX des cartes
-├── dialogs/ # Images et polices des dialogues
-├── lost_woods.mp3 # Musique de fond
-└── README.md # Ce fichier
-
 ## 🤝 Auteur
 
 Walid Bouknia - AreYouReadyOrNot
