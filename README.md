@@ -34,4 +34,4 @@ python main.py
 
 ## 🤝 Auteur
 
-Walid Bouknia - AreYouReadyOrNot
+Walid Bouknia - Étudiant INSA Lyon - AreYouReadyOrNot
